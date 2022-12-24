@@ -1,0 +1,16 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "unit test jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+     "test:watch": "jest --watch",
+     "coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
